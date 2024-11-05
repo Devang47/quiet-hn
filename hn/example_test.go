@@ -1,6 +1,3 @@
-// The client tests need to be inside the hn package so this test file
-// was created for examples that use the hn package from an external package
-// like a normal user would.
 package hn_test
 
 import (
